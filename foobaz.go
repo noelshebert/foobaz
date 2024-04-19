@@ -1,5 +1,5 @@
 package foobaz
 
-func foobaz(a int, b int) int {
+func Foobaz(a, b int) int {
   return a + b
 }
